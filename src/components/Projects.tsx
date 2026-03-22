@@ -1,9 +1,9 @@
 import { ArrowUpRight } from "lucide-react";
 
 const projects = [
-  { id: 1, title: "Astro", category: "E-commerce", desc: "A headless storefront with fluid transitions." },
-  { id: 2, title: "Nexus", category: "Web3", desc: "Decentralized exchange with real-time data visualization." },
-  { id: 3, title: "Luminal", category: "AI Interface", desc: "Generative tools wrapped in a minimal, intuitive UI." },
+  { id: 1, title: "LinkedIn", category: "know about me", desc: "A headless storefront with fluid transitions." },
+  { id: 2, title: "Experience", category: "Software developer Intern ", desc: "Working as Intern at IBM" },
+  { id: 3, title: "GitHub", category: "Codebase", desc: "Generative tools wrapped in a minimal, intuitive repo" },
   { id: 4, title: "Prism", category: "Fintech", desc: "Modern banking dashboard with dark mode aesthetics." }
 ];
 
